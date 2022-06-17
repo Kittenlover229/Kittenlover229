@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+![Kittenlover229 stats](https://github-readme-stats.vercel.app/api?username=Kittenlover229&show_icons=true&theme=dark&count_private=true)
+
+Maybe you'll see more information soon.
+
 <!--
 **Kittenlover229/Kittenlover229** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
